@@ -1,2 +1,2 @@
-Aula 02 - Workshop Git
+Aula 02 - git orkshop Git
 Data: 01/07/2017
